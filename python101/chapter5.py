@@ -1,6 +1,6 @@
-###Chapter 5###
+### Chapter 5 ###
 
-#Ex. 5.1
+# Ex. 5.1
 
 total = 0
 count = 0
@@ -18,7 +18,7 @@ count = count + 1
 avg = total/count
 print int(total), int(count), float(avg)
 
-#Ex. 5.2
+# Ex. 5.2
 
 total = 0
 count = 0
