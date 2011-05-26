@@ -1,7 +1,7 @@
 ### Chapter 10 (Tuples): Python 101 :Jimmy Moore ###
 
 # Ex.10.1
-"""
+
 file = raw_input('Enter a file name: ')
 try:
 	fhand = open(file)
@@ -20,7 +20,7 @@ for line in fhand:
 	lst.sort(reverse=True)
 for key, val in lst[:1]:
 	print key, val
-"""
+	
 # Ex.10.2
 
 file = raw_input('Enter a file name: ')
