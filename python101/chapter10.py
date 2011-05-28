@@ -1,5 +1,5 @@
 ### Chapter 10 (Tuples): Python 101 :Jimmy Moore ###
-"""
+
 # Ex.10.1
 
 file = raw_input('Enter a file name: ')
@@ -41,7 +41,7 @@ for line in fhand:
 		lst.append((val,key))
 for key, val in lst:
 	print val, key
-"""	
+	
 # Ex. 10.3
 
 import string
