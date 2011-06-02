@@ -34,7 +34,7 @@ except:
 #Ex. 3.3
 
 try:
-	input_score = raw_input('Enter Test Score for Grade Result: ')
+	input_score = raw_input('Enter Test Score for Grade: ')
 	score = float(input_score)
 
 	if score <= 1.0 and score >= 0.0:
